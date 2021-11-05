@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Randpass</string>
+    <string name="trademark">By Locheart and RSR Customs</string>
+    <string name="motto">Secure your accounts for centuries.</string>
+    <string name="app_name_">ILE KITU</string>
+    <string name="gen_password">Password</string>
+    <string name="exit">Exit</string>
+    <string name="generate">Generate</string>
+    <string name="title_activity_password_generator">PasswordGenerator</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
